@@ -2,7 +2,7 @@
   "name": "chat",
   "version": "0.0.1",
   "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "homepage": "https://ernestoserrano6284.github.io",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -27,6 +27,7 @@
     "@capacitor/keyboard": "4.1.1",
     "@capacitor/status-bar": "4.1.1",
     "@ionic/angular": "^6.1.9",
+    "angular-cli-ghpages": "^1.0.5",
     "firebase": "^9.17.2",
     "ionicons": "^6.0.3",
     "rxjs": "~7.5.0",
